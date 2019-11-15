@@ -1,0 +1,20 @@
+{
+    "users":
+    [
+        {
+            "userid": 1,
+            "name": "Eduardo Nava",
+            "avatar": "avatar-1.png",
+            "mensagge": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, quibusdam",
+            "date": "7-11-2019"
+        },
+
+        {
+            "userid": 2,
+            "name": "Eduardo Nava",
+            "avatar": "avatar-1.png",
+            "mensagge": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, quibusdam",
+            "date": "7-11-2019"
+        }
+    ]
+}

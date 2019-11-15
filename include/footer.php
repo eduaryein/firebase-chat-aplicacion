@@ -11,19 +11,7 @@
 
     <script>
       // Your web app's Firebase configuration
-      var firebaseConfig = {
-        apiKey: "AIzaSyD0d5YoznNHqIViWDud-cPLOXuBoeSWp24",
-        authDomain: "chat-aplication-example.firebaseapp.com",
-        databaseURL: "https://chat-aplication-example.firebaseio.com",
-        projectId: "chat-aplication-example",
-        storageBucket: "chat-aplication-example.appspot.com",
-        messagingSenderId: "782918484583",
-        appId: "1:782918484583:web:d0b84c4e1153698554cac2",
-        measurementId: "G-JZMFW77SY5"
-      };
-      // Initialize Firebase
-      firebase.initializeApp(firebaseConfig);
-      firebase.analytics();
+     
     </script>
     <script src="<?php echo $url; ?>js/app.js"></script>
 </body>
